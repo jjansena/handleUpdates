@@ -1,0 +1,8 @@
+{
+  "version": "1.1.0",
+  "release_date": "2023-03-19",
+  "download_url": {
+    "chrome": "https://example.com/myextension/myextension-chrome-1.1.0.zip",
+    "firefox": "https://example.com/myextension/myextension-firefox-1.1.0.xpi"
+  }
+}
